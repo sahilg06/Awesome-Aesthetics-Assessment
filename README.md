@@ -11,7 +11,7 @@
 - Aesthetics++: Refining Graphic Designs by Exploring Design Principles and Human Preference (**IEEE Transactions on Visualization and Computer Graphics**) [[Paper]](https://ieeexplore.ieee.org/document/9714170) 
 - Assessing the Visual Esthetics of User Interfaces: A Ten-Year Systematic Mapping (**International Journal of Human–Computer Interaction**) [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/10447318.2021.1926118)
 ### 2019
-- Webthetics: Quantifying webpage aesthetics with deep learning (**International Journal of Human-Computer Studies**) [[Paper]]((https://www.cse.cuhk.edu.hk/~qdou/papers/2019/%5B2019%5D%5BIJHCS%5DWebthetics-Webpage%20Aesthetics%20Quantification%20with%20Deep%20Learning.pdf) [[Code]](https://github.com/carrenD/Webthetics)
+- Webthetics: Quantifying webpage aesthetics with deep learning (**International Journal of Human-Computer Studies**) [[Paper]](https://www.cse.cuhk.edu.hk/~qdou/papers/2019/%5B2019%5D%5BIJHCS%5DWebthetics-Webpage%20Aesthetics%20Quantification%20with%20Deep%20Learning.pdf) [[Code]](https://github.com/carrenD/Webthetics)
 - Context-Aware Asset Search for Graphic Design (**IEEE Transactions on Visualization and Computer Graphics**) [[Paper]](https://ieeexplore.ieee.org/document/8371268)
 ### 2018
 - Understanding the Impact of Perceived Visual Aesthetics on User Evaluations: An Emotional Perspective (**Journal of Information & Management**) [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0378720618301502)
