@@ -6,20 +6,26 @@ These papers, though diverse, collectively shed light on the subjective and evol
 ### 2023
 - Contextual Font Recommendations based on User Intent (**SIGIR eCom**) [[Paper]](https://arxiv.org/abs/2306.08188)
 - A Quality Model-based Approach for Measuring User Interface Aesthetics with Grace (**ACM Transactions on Human–Computer Interaction**) [[Paper]](https://dl.acm.org/doi/10.1145/3593224)
+- Machine Learning Model to Evaluate the Appropriateness of Layout for Automatic Generation of Graphic Design Works (**IMCOM**) [[Paper]](https://ieeexplore.ieee.org/document/10035646)
+- Color Recommendation for Vector Graphic Documents based on Multi-Palette Representation (**WACV**) [[Paper]](https://arxiv.org/abs/2209.10820v1)
 ### 2022
 - Design Order Guided Visual Note Layout Optimization (**IEEE Transactions on Visualization and Computer Graphics**) [[Paper]](https://ieeexplore.ieee.org/document/9767765)
 - Aesthetics++: Refining Graphic Designs by Exploring Design Principles and Human Preference (**IEEE Transactions on Visualization and Computer Graphics**) [[Paper]](https://ieeexplore.ieee.org/document/9714170)
 - Optimization approaches for graphical layout design (**Aalto University publication series**) [[Thesis]](https://aaltodoc.aalto.fi/items/7a4a9393-922c-49ff-b6f5-9ee54b196bee)
 - Assessing the Visual Esthetics of User Interfaces: A Ten-Year Systematic Mapping (**International Journal of Human–Computer Interaction**) [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/10447318.2021.1926118)
+- Product Aesthetic Design: A Machine Learning Augmentation (**Marketing Science**) [[Paper]](https://arxiv.org/ftp/arxiv/papers/1907/1907.07786.pdf)
 ### 2021
 - Grid-based Genetic Operators for Graphical Layout Generation (**ACM on Human-Computer Interaction**) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3461730) [[Project]](https://userinterfaces.aalto.fi/grid_nsga/)
 - RUITE: Refining UI Layout Aesthetics Using Transformer Encoder (**IUI**) [[Paper]](https://dl.acm.org/doi/10.1145/3397482.3450716) [[Code]](https://github.com/vinothpandian/RUITE)
 - Selective Region-based Photo Color Adjustment for Graphic Designs (**ACM Transactions on Graphics**) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447647)
+- A Novel Webpage Layout Aesthetic Evaluation Model for Quantifying Webpage Layout Design (**Information Sciences: an International Journal**) [[Paper]](https://dl.acm.org/doi/10.1016/j.ins.2021.06.071)
 ### 2020
 - Let Me Choose: From Verbal Context to Font Selection (**ACL**) [[Paper]](https://arxiv.org/abs/2005.01151)
+- Attribute2Font: creating fonts you want from attributes (**ACM Transactions on Graphics**) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3386569.3392456)
 ### 2019
 - Webthetics: Quantifying webpage aesthetics with deep learning (**International Journal of Human-Computer Studies**) [[Paper]](https://www.cse.cuhk.edu.hk/~qdou/papers/2019/%5B2019%5D%5BIJHCS%5DWebthetics-Webpage%20Aesthetics%20Quantification%20with%20Deep%20Learning.pdf) [[Code]](https://github.com/carrenD/Webthetics)
 - Context-Aware Asset Search for Graphic Design (**IEEE Transactions on Visualization and Computer Graphics**) [[Paper]](https://ieeexplore.ieee.org/document/8371268)
+- Large-scale Tag-based Font Retrieval with Generative Feature Learning (**ICCV**) [[Paper]](https://arxiv.org/abs/1909.02072) [[Project]](https://www.cs.rochester.edu/u/tchen45/font/font.html)
 ### 2018
 - What Characterizes Personalities of Graphic Designs? (**ACM Transactions on Graphics**) [[Paper]](https://dl.acm.org/doi/10.1145/3197517.3201355) [[Project]](http://nxzhao.com/projects/design_personality/) [[Code]](https://github.com/sahilg06/What-Characterizes-Personalities-of-Graphic-Designs)
 - Understanding the Impact of Perceived Visual Aesthetics on User Evaluations: An Emotional Perspective (**Journal of Information & Management**) [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0378720618301502)
@@ -47,6 +53,26 @@ These papers, though diverse, collectively shed light on the subjective and evol
 - Visual and Textual Consistency Checking Tools for Graphical User Interfaces (**IEEE Transactions on Software Engineering**) [[Paper]](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)
 - Aesthetic measures for automated document layout (**ACM Symposium on Document Engineering**) [[Paper]](https://www.researchgate.net/publication/221353078_Aesthetic_measures_for_automated_document_layout)
 - Color compatibility from large datasets (**SIGGRAPH**) [[Paper]](https://dl.acm.org/doi/abs/10.1145/1964921.1964958)
+- Another look at a model for evaluating interface aesthetics (**International Journal of Applied Mathematics and Computer Science**) [[Paper]](http://matwbn.icm.edu.pl/ksiazki/amc/amc11/amc11211.pdf)
+- https://dl.acm.org/doi/abs/10.1145/1179352.1141933 (**SIGGRAPH**) [[Paper]](https://dl.acm.org/doi/abs/10.1145/1179352.1141933)
+### Blogs
+- https://www.canva.com/learn/contrasting-colors/
+- https://owl.purdue.edu/owl/general_writing/visual_rhetoric/using_fonts_with_purpose/font_personality.html
+- https://owl.purdue.edu/owl/general_writing/visual_rhetoric/using_fonts_with_purpose/font_features.html
+- https://louisem.com/4089
+
+### Relevant Datasets
+- [Rico](https://dl.acm.org/doi/10.1145/3126594.3126651)
+- [Clay](https://github.com/google-research-datasets/clay)
+- [Crello](https://huggingface.co/datasets/cyberagent/crello)
+- [PubLayNet](https://github.com/ibm-aur-nlp/PubLayNet)
+- [Ad Banner](https://ningyu1991.github.io/projects/LayoutDETR.html)
+- [Pitts Ad Banner](https://people.cs.pitt.edu/~kovashka/ads/readme_images.txt)
+- [Web-Aesthetics](https://github.com/calista-ai/website-aesthetics-datasets)
+- [STEFANN](https://github.com/prasunroy/stefann)
+- [Tag-based Font](https://www.cs.rochester.edu/u/tchen45/font/font.html)
+- [Font Attribute](https://www.dgp.toronto.edu/~donovan/font/)
+
 
 ## Image Aesthetics Assessment
 ### 2023
