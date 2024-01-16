@@ -30,6 +30,7 @@ These papers, though diverse, collectively shed light on the subjective and evol
 ### 2016
 - Aesthetic Measures for Document Layouts: Operationalization and Analysis in the Context of Marketing Brochures (**DocEng**) [[Paper]](https://dl.acm.org/doi/10.1145/2960811.2960821)
 ### <= 2015
+- A Mathematical Theory of Interface Aesthetics (**Ngo Metrics**) [[Article]](https://www.mi.sanu.ac.rs/vismath/ngo/index.html)
 - DesignScape: Design with Interactive Layout Suggestions (**CHI**) [[Paper]](https://www.dgp.toronto.edu/~donovan/design/designscape.pdf) [[Project]](https://www.dgp.toronto.edu/~donovan/design/index.html)
 - Learning Layouts for Single-Page Graphic Designs (**IEEE Transactions on Visualization and Computer Graphics**) [[Paper]](https://ieeexplore.ieee.org/document/6777138) [[Project]](https://www.dgp.toronto.edu/~donovan/layout/)
 - Learning Design: Aesthetic Models for Color, Layout, and Typography (**O'Donovan, Peter**) [[Thesis]](https://tspace.library.utoronto.ca/handle/1807/69465)
@@ -44,6 +45,8 @@ These papers, though diverse, collectively shed light on the subjective and evol
 - Towards an Evaluation of Graphical User Interfaces Aesthetics based on Metrics (**RCIS**) [[Paper]](https://ieeexplore.ieee.org/document/6861050)
 - Quantifying aesthetics of visual design applied to automatic design (**Ali Jahanian**) [[Thesis]](https://docs.lib.purdue.edu/open_access_dissertations/295/)
 - Visual and Textual Consistency Checking Tools for Graphical User Interfaces (**IEEE Transactions on Software Engineering**) [[Paper]](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)
+- Aesthetic measures for automated document layout (**ACM Symposium on Document Engineering**) [[Paper]](https://www.researchgate.net/publication/221353078_Aesthetic_measures_for_automated_document_layout)
+- Color compatibility from large datasets (**SIGGRAPH**) [[Paper]](https://dl.acm.org/doi/abs/10.1145/1964921.1964958)
 
 ## Image Aesthetics Assessment
 ### 2023
@@ -55,6 +58,7 @@ These papers, though diverse, collectively shed light on the subjective and evol
 ### <= 2015
 - Rating Image Aesthetics Using Deep Learning (**IEEE Transactions on Multimedia**) [[Paper]](https://ieeexplore.ieee.org/document/7243357)
 - Computing Aesthetics (**Advances in Artificial Intelligence**) [[Paper]](https://link.springer.com/chapter/10.1007/10692710_23)
+- Studying Aesthetics in Photographic Images Using a Computational Approach (**ECCV**) [[Paper]](http://infolab.stanford.edu/~wangz/project/imsearch/Aesthetics/ECCV06/)
 
 
   
