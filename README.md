@@ -1,4 +1,4 @@
-# Aesthetics Assessment Sources (Graphic Designs/Images)
+# Aesthetics Assessment Papers Collection (Graphic Designs/Images)
 It includes both **Heuristic** (Rule-Based) and **AI**-based approaches.
 
 ## Graphic Design Aesthetics Assessment
