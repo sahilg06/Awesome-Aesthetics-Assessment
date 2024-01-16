@@ -3,6 +3,10 @@ It includes both **Heuristic** (Rule-Based) and **AI**-based approaches.
 
 ## Graphic Design Aesthetics Assessment
 These papers, though diverse, collectively shed light on the subjective and evolving nature of graphic design aesthetics.
+
+![Graphic Design Aesthetics](https://github.com/sahilg06/Awesome-Aesthetics-Assessment/assets/59660566/94454826-9369-4bf1-9786-a5dc741682b1)
+
+
 ### 2023
 - Contextual Font Recommendations based on User Intent (**SIGIR eCom**) [[Paper]](https://arxiv.org/abs/2306.08188)
 - A Quality Model-based Approach for Measuring User Interface Aesthetics with Grace (**ACM Transactions on Human–Computer Interaction**) [[Paper]](https://dl.acm.org/doi/10.1145/3593224)
