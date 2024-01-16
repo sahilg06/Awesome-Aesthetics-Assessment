@@ -1,8 +1,8 @@
-# Aesthetics Assesment Sources (Graphic Designs/Images)
+# Aesthetics Assessment Sources (Graphic Designs/Images)
 It includes both **Heuristic** (Rule-Based) and **AI**-based approaches.
 
-## Graphic Design Aesthetics Assesment
-These papers, though diverse, collectively shed light on the subjective and ever-evolving nature of graphic design aesthetics.
+## Graphic Design Aesthetics Assessment
+These papers, though diverse, collectively shed light on the subjective and evolving nature of graphic design aesthetics.
 ### 2023
 - Contextual Font Recommendations based on User Intent (**SIGIR eCom**) [[Paper]](https://arxiv.org/abs/2306.08188)
 - A Quality Model-based Approach for Measuring User Interface Aesthetics with Grace (**ACM Transactions on Human–Computer Interaction**) [[Paper]](https://dl.acm.org/doi/10.1145/3593224)
@@ -45,7 +45,7 @@ These papers, though diverse, collectively shed light on the subjective and ever
 - Quantifying aesthetics of visual design applied to automatic design (**Ali Jahanian**) [[Thesis]](https://docs.lib.purdue.edu/open_access_dissertations/295/)
 - Visual and Textual Consistency Checking Tools for Graphical User Interfaces (**IEEE Transactions on Software Engineering**) [[Paper]](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)
 
-## Image Aesthetics Assesment
+## Image Aesthetics Assessment
 ### 2023
 - Thinking Image Color Aesthetics Assessment: Models, Datasets and Benchmarks (**ICCV**) [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/He_Thinking_Image_Color_Aesthetics_Assessment_Models_Datasets_and_Benchmarks_ICCV_2023_paper.pdf) [[Code]](https://github.com/woshidandan/Image-Color-Aesthetics-Assessment)
 ### 2020
