@@ -4,7 +4,9 @@ It includes both **Heuristic** (Rule-Based) and **AI**-based approaches.
 ## Graphic Design Aesthetics Assessment
 These papers, though diverse, collectively shed light on the subjective and evolving nature of graphic design aesthetics.
 
-![Graphic Design Aesthetics](https://github.com/sahilg06/Awesome-Aesthetics-Assessment/assets/59660566/94454826-9369-4bf1-9786-a5dc741682b1)
+
+![aaf](https://github.com/sahilg06/Awesome-Aesthetics-Assessment/assets/59660566/f6d9aa8f-4e90-4fba-bc9e-eb6cf40714e8)
+
 
 
 ### 2023
