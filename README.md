@@ -60,7 +60,7 @@ These papers, though diverse, collectively shed light on the subjective and evol
 - Aesthetic measures for automated document layout (**ACM Symposium on Document Engineering**) [[Paper]](https://www.researchgate.net/publication/221353078_Aesthetic_measures_for_automated_document_layout)
 - Color compatibility from large datasets (**SIGGRAPH**) [[Paper]](https://dl.acm.org/doi/abs/10.1145/1964921.1964958)
 - Another look at a model for evaluating interface aesthetics (**International Journal of Applied Mathematics and Computer Science**) [[Paper]](http://matwbn.icm.edu.pl/ksiazki/amc/amc11/amc11211.pdf)
-- https://dl.acm.org/doi/abs/10.1145/1179352.1141933 (**SIGGRAPH**) [[Paper]](https://dl.acm.org/doi/abs/10.1145/1179352.1141933)
+- Color harmonization (**SIGGRAPH**) [[Paper]](https://dl.acm.org/doi/abs/10.1145/1179352.1141933)
 ### Blogs
 - https://www.canva.com/learn/contrasting-colors/
 - https://owl.purdue.edu/owl/general_writing/visual_rhetoric/using_fonts_with_purpose/font_personality.html
