@@ -1,4 +1,6 @@
 # Aesthetics Assessment Sources (Graphic Designs/Images)
+Most of the lists focus only on aesthetics assesment of the Images. This repo focuses mainly on Graphic Designs.
+
 It includes both **Heuristic** (Rule-Based) and **AI**-based approaches.
 
 ## Graphic Design Aesthetics Assessment
