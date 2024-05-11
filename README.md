@@ -20,7 +20,7 @@ These papers, though diverse, collectively shed light on the subjective and evol
 |[Pitts Ad Banner](https://people.cs.pitt.edu/~kovashka/ads/readme_images.txt)| Ads Images | Images + Annotations |
 |[Ad Banner](https://ningyu1991.github.io/projects/LayoutDETR.html)| Filtered from Pitts Ad Banner | Single background image + foreground text|
 |[Magazine](https://xtqiao.com/projects/content_aware_layout/)| Magazine Images |Incomplete background images,  Masked out foreground layouts from the background|
-|[CGL](https://tianchi.aliyun.com/dataset/142692)| |Poster images + layout annotations|
+|[CGL](https://tianchi.aliyun.com/dataset/142692)| Advertising Posters |Poster images + layout annotations|
 |[Web-Aesthetics](https://github.com/calista-ai/website-aesthetics-datasets)|
 |[STEFANN](https://github.com/prasunroy/stefann)|
 |[Tag-based Font](https://www.cs.rochester.edu/u/tchen45/font/font.html)|
