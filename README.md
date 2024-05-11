@@ -6,6 +6,26 @@ These papers, though diverse, collectively shed light on the subjective and evol
 
 ![intro](https://github.com/sahilg06/Awesome-Aesthetics-Assessment/assets/59660566/cab2c2e9-f79a-4d4c-8e5a-5f8b93739fc9)
 
+
+
+### Relevant Datasets
+
+| Dataset                                               | Description                                      | Details                                  |
+|-------------------------------------------------------|--------------------------------------------------|------------------------------------------|
+| [Rico](https://dl.acm.org/doi/10.1145/3126594.3126651)| UI designs of android applications | screenshots + wireframes + annotations|
+|[Enrico](https://github.com/luileito/enrico?tab=readme-ov-file)| Manually curated RICO | -
+|[Clay](https://github.com/google-research-datasets/clay)| Human-annotated RICO | -
+|[Crello](https://huggingface.co/datasets/cyberagent/crello)| Design templates from [crello.com](crello.com) | Detailed attributes of canvas and elements + **element-wise images**|
+|[PubLayNet](https://github.com/ibm-aur-nlp/PubLayNet)| Document Images| Canvas + Layout annotations |
+|[Pitts Ad Banner](https://people.cs.pitt.edu/~kovashka/ads/readme_images.txt)| Ads Images | Images + Annotations |
+|[Ad Banner](https://ningyu1991.github.io/projects/LayoutDETR.html)| Filtered from Pitts Ad Banner | Single background image + foreground text|
+|[Magazine](https://xtqiao.com/projects/content_aware_layout/)| Magazine Images |Incomplete background images,  Masked out foreground layouts from the background|
+|[CGL](https://tianchi.aliyun.com/dataset/142692)| |Poster images + layout annotations|
+|[Web-Aesthetics](https://github.com/calista-ai/website-aesthetics-datasets)|
+|[STEFANN](https://github.com/prasunroy/stefann)|
+|[Tag-based Font](https://www.cs.rochester.edu/u/tchen45/font/font.html)|
+|[Font Attribute](https://www.dgp.toronto.edu/~donovan/font/)|
+
 ### 2023
 - Contextual Font Recommendations based on User Intent (**SIGIR eCom**) [[Paper]](https://arxiv.org/abs/2306.08188)
 - A Quality Model-based Approach for Measuring User Interface Aesthetics with Grace (**ACM Transactions on Human–Computer Interaction**) [[Paper]](https://dl.acm.org/doi/10.1145/3593224)
@@ -63,21 +83,6 @@ These papers, though diverse, collectively shed light on the subjective and evol
 - https://owl.purdue.edu/owl/general_writing/visual_rhetoric/using_fonts_with_purpose/font_personality.html
 - https://owl.purdue.edu/owl/general_writing/visual_rhetoric/using_fonts_with_purpose/font_features.html
 - https://louisem.com/4089
-
-### Relevant Datasets
-- [Rico](https://dl.acm.org/doi/10.1145/3126594.3126651)
-- [Clay](https://github.com/google-research-datasets/clay)
-- [Crello](https://huggingface.co/datasets/cyberagent/crello)
-- [PubLayNet](https://github.com/ibm-aur-nlp/PubLayNet) (render layouts only on a plain background)
-- [Ad Banner](https://ningyu1991.github.io/projects/LayoutDETR.html) (filtered from pits banner and google search, Single background image + foreground text)
-
-- [Pitts Ad Banner](https://people.cs.pitt.edu/~kovashka/ads/readme_images.txt)
-- [Magazine](https://xtqiao.com/projects/content_aware_layout/) (Incomplete background images,  Masked out foreground layouts from the background)
-- [CGL](https://tianchi.aliyun.com/dataset/142692) (Poster images + layout annotations)
-- [Web-Aesthetics](https://github.com/calista-ai/website-aesthetics-datasets)
-- [STEFANN](https://github.com/prasunroy/stefann)
-- [Tag-based Font](https://www.cs.rochester.edu/u/tchen45/font/font.html)
-- [Font Attribute](https://www.dgp.toronto.edu/~donovan/font/)
 
 
 ## Image Aesthetics Assessment
