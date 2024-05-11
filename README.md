@@ -1,15 +1,10 @@
 # Aesthetics Assessment Sources (Graphic Designs/Images)
-Most of the lists focus only on aesthetics assesment of the Images. This repo focuses mainly on Graphic Designs.
-
-It includes both **Heuristic** (Rule-Based) and **AI**-based approaches.
+This repo focuses mainly on **Graphic Designs**. It includes both **Heuristic** (Rule-Based) and **AI**-based approaches.
 
 ## Graphic Design Aesthetics Assessment
 These papers, though diverse, collectively shed light on the subjective and evolving nature of graphic design aesthetics.
 
-
-![aaf](https://github.com/sahilg06/Awesome-Aesthetics-Assessment/assets/59660566/f6d9aa8f-4e90-4fba-bc9e-eb6cf40714e8)
-
-
+![intro](https://github.com/sahilg06/Awesome-Aesthetics-Assessment/assets/59660566/cab2c2e9-f79a-4d4c-8e5a-5f8b93739fc9)
 
 ### 2023
 - Contextual Font Recommendations based on User Intent (**SIGIR eCom**) [[Paper]](https://arxiv.org/abs/2306.08188)
