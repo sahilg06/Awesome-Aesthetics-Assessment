@@ -21,10 +21,10 @@ These papers, though diverse, collectively shed light on the subjective and evol
 |[Ad Banner](https://ningyu1991.github.io/projects/LayoutDETR.html)| Filtered from Pitts Ad Banner | Single background image + foreground text|
 |[Magazine](https://xtqiao.com/projects/content_aware_layout/)| Magazine Images |Incomplete background images,  Masked out foreground layouts from the background|
 |[CGL](https://tianchi.aliyun.com/dataset/142692)| Advertising Posters |Poster images + layout annotations|
-|[Web-Aesthetics](https://github.com/calista-ai/website-aesthetics-datasets)|
-|[STEFANN](https://github.com/prasunroy/stefann)|
-|[Tag-based Font](https://www.cs.rochester.edu/u/tchen45/font/font.html)|
-|[Font Attribute](https://www.dgp.toronto.edu/~donovan/font/)|
+|[Web-Aesthetics](https://github.com/calista-ai/website-aesthetics-datasets)| Webpage images + ratings | Individual ratings + pair-wise comparison ratings |
+|[STEFANN](https://github.com/prasunroy/stefann)| Font style dataset | 64x64 grayscale images of 62 English alphanumeric characters (10 numerals + 26 upper-case letters + 26 lower-case letters)
+|[Tag-based Font](https://www.cs.rochester.edu/u/tchen45/font/font.html)| Font style dataset | Fonts + tags |
+|[Font Attribute](https://www.dgp.toronto.edu/~donovan/font/)| Font style dataset | Fonts + personality attributes |
 
 ### 2023
 - Contextual Font Recommendations based on User Intent (**SIGIR eCom**) [[Paper]](https://arxiv.org/abs/2306.08188)
