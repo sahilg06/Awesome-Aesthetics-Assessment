@@ -22,6 +22,7 @@ These papers, though diverse, collectively shed light on the subjective and evol
 |[Magazine](https://xtqiao.com/projects/content_aware_layout/)| Magazine Images |Incomplete background images,  Masked out foreground layouts from the background|
 |[CGL](https://tianchi.aliyun.com/dataset/142692)| Advertising Posters |Poster images + layout annotations|
 |[PKU](http://39.108.48.32/mipl/PosterLayout/)| Poster-layout pairs | Original Posters + Impainted Posters + Image Canvases + Saliency Maps |
+|[Desigen](https://drive.google.com/file/d/1M6om4DSk9wNgzjGLY5BtPNUL83KB8JVB/view)| |Bg Image + Layout annotations + meta-data|
 |[Web-Aesthetics](https://github.com/calista-ai/website-aesthetics-datasets)| Webpage images + ratings | Individual ratings + pair-wise comparison ratings |
 |[STEFANN](https://github.com/prasunroy/stefann)| Font style dataset | 64x64 grayscale images of 62 English alphanumeric characters (10 numerals + 26 upper-case letters + 26 lower-case letters)
 |[Tag-based Font](https://www.cs.rochester.edu/u/tchen45/font/font.html)| Font style dataset | Fonts + tags |
