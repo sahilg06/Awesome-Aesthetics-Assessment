@@ -48,6 +48,7 @@ These papers, though diverse, collectively shed light on the subjective and evol
 - RUITE: Refining UI Layout Aesthetics Using Transformer Encoder (**IUI**) [[Paper]](https://dl.acm.org/doi/10.1145/3397482.3450716) [[Code]](https://github.com/vinothpandian/RUITE)
 - Selective Region-based Photo Color Adjustment for Graphic Designs (**ACM Transactions on Graphics**) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447647)
 - A Novel Webpage Layout Aesthetic Evaluation Model for Quantifying Webpage Layout Design (**Information Sciences: an International Journal**) [[Paper]](https://dl.acm.org/doi/10.1016/j.ins.2021.06.071)
+- Beyond Beauty: Towards a Deeper Understanding of Aesthetics in HCI (**CHI EA**) [[Paper]](https://dl.acm.org/doi/10.1145/3411763.3450381)
 ### 2020
 - Let Me Choose: From Verbal Context to Font Selection (**ACL**) [[Paper]](https://arxiv.org/abs/2005.01151)
 - Attribute2Font: creating fonts you want from attributes (**ACM Transactions on Graphics**) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3386569.3392456)
@@ -60,6 +61,7 @@ These papers, though diverse, collectively shed light on the subjective and evol
 - Understanding the Impact of Perceived Visual Aesthetics on User Evaluations: An Emotional Perspective (**Journal of Information & Management**) [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0378720618301502)
 - Metrics-Based Evaluation of Graphical User Interface Aesthetics: The Segmentation Problem (**ISS**) [[Paper]](https://dl.acm.org/doi/10.1145/3280295.3281747)
 - Font Style Transfer Using Deep Learning (**Antanas Kascenas**) [[Report]](https://project-archive.inf.ed.ac.uk/ug4/20181137/ug4_proj.pdf)
+- Visual complexity of graphical user interfaces (**AVI**) [[Paper]](https://dl.acm.org/doi/10.1145/3206505.3206549)
 ### 2017
 - Learning Visual Importance for Graphic Designs and Data Visualizations (**UIST**) [[Paper](https://arxiv.org/abs/1708.02660) [[Code]](https://github.com/cvzoya/visimportance)
 ### 2016
@@ -70,7 +72,7 @@ These papers, though diverse, collectively shed light on the subjective and evol
 - Learning Layouts for Single-Page Graphic Designs (**IEEE Transactions on Visualization and Computer Graphics**) [[Paper]](https://ieeexplore.ieee.org/document/6777138) [[Project]](https://www.dgp.toronto.edu/~donovan/layout/)
 - Learning Design: Aesthetic Models for Color, Layout, and Typography (**O'Donovan, Peter**) [[Thesis]](https://tspace.library.utoronto.ca/handle/1807/69465)
 - Exploratory Font Selection Using Crowdsourced Attributes (**ACM Transactions on Graphics**) [[Paper]](https://dl.acm.org/doi/10.1145/2601097.2601110) [[Project]](https://www.dgp.toronto.edu/~donovan/font/)
-- Aesthetic Measures for Assessing Graphic Screens (**Journal of Information Science and Engineering**) [[Paper]](https://www.researchgate.net/publication/220587460_Aesthetic_Measures_for_Assessing_Graphic_Screens)
+- Aesthetic Measures for Assessing Graphic Screens (**Journal: Information Science and Engineering**) [[Paper]](https://www.researchgate.net/publication/220587460_Aesthetic_Measures_for_Assessing_Graphic_Screens)
 - Aesthetic measures for automated document layout (**DocEng**) [[Paper]](https://dl.acm.org/doi/abs/10.1145/1030397.1030419)
 - DON: User Interface Presentation Design Assistant (**UIST**) [[Paper]](https://dl.acm.org/doi/10.1145/97924.97926)
 -  GUILayout++: Supporting prototype creation and quality evaluation for abstract user interface generation (**Workshop of ACM SIGCHI Symposium on Engineering Interactive Computing**) [[Paper]](https://www.dsi.uclm.es/personal/victormanuellopez/mipagina/archivos/usiXML2010.pdf)
@@ -82,8 +84,10 @@ These papers, though diverse, collectively shed light on the subjective and evol
 - Visual and Textual Consistency Checking Tools for Graphical User Interfaces (**IEEE Transactions on Software Engineering**) [[Paper]](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)
 - Aesthetic measures for automated document layout (**ACM Symposium on Document Engineering**) [[Paper]](https://www.researchgate.net/publication/221353078_Aesthetic_measures_for_automated_document_layout)
 - Color compatibility from large datasets (**SIGGRAPH**) [[Paper]](https://dl.acm.org/doi/abs/10.1145/1964921.1964958)
-- Another look at a model for evaluating interface aesthetics (**International Journal of Applied Mathematics and Computer Science**) [[Paper]](http://matwbn.icm.edu.pl/ksiazki/amc/amc11/amc11211.pdf)
+- Another look at a model for evaluating interface aesthetics (**Journal: Applied Mathematics and Computer Science**) [[Paper]](http://matwbn.icm.edu.pl/ksiazki/amc/amc11/amc11211.pdf)
+- Computation of Interface Aesthetics (**ACM CHI**) [[Paper]](https://dl.acm.org/doi/10.1145/2702123.2702575)
 - Color harmonization (**SIGGRAPH**) [[Paper]](https://dl.acm.org/doi/abs/10.1145/1179352.1141933)
+- Visual complexity and aesthetic perception of web pages (**SIGDOC**) [[Paper]](https://dl.acm.org/doi/abs/10.1145/1456536.1456581)
 ### Blogs
 - https://www.canva.com/learn/contrasting-colors/
 - https://owl.purdue.edu/owl/general_writing/visual_rhetoric/using_fonts_with_purpose/font_personality.html
@@ -94,8 +98,10 @@ These papers, though diverse, collectively shed light on the subjective and evol
 ## Image Aesthetics Assessment
 ### 2023
 - Thinking Image Color Aesthetics Assessment: Models, Datasets and Benchmarks (**ICCV**) [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/He_Thinking_Image_Color_Aesthetics_Assessment_Models_Datasets_and_Benchmarks_ICCV_2023_paper.pdf) [[Code]](https://github.com/woshidandan/Image-Color-Aesthetics-Assessment)
+- Towards Transparent Deep Image Aesthetics Assessment with Tag-based Content Descriptors (**IEEE Transactions on Image Processing**) [[Paper]](https://ieeexplore.ieee.org/document/10235894)
 ### 2022
 - LAION-AI Aesthetics Predictor [[Code]](https://github.com/LAION-AI/aesthetic-predictor)
+- Distilling Knowledge From Object Classification to Aesthetics Assessment (**IEEE Transactions on Circuits and Systems for Video Technology**) [[Paper]](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)
 ### 2020
 - Toward Quantifying Ambiguities in Artistic Images (**ACM Transactions on Applied Perception**) [[Paper]](https://arxiv.org/abs/2008.09688)
 ### 2016
