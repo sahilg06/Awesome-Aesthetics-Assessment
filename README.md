@@ -89,6 +89,7 @@ These papers, though diverse, collectively shed light on the subjective and evol
 - Color harmonization (**SIGGRAPH**) [[Paper]](https://dl.acm.org/doi/abs/10.1145/1179352.1141933)
 - Visual complexity and aesthetic perception of web pages (**SIGDOC**) [[Paper]](https://dl.acm.org/doi/abs/10.1145/1456536.1456581)
 ### Blogs
+- https://m2.material.io/design
 - https://www.canva.com/learn/contrasting-colors/
 - https://owl.purdue.edu/owl/general_writing/visual_rhetoric/using_fonts_with_purpose/font_personality.html
 - https://owl.purdue.edu/owl/general_writing/visual_rhetoric/using_fonts_with_purpose/font_features.html
