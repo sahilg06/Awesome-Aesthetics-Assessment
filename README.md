@@ -27,6 +27,7 @@ These papers, though diverse, collectively shed light on the subjective and evol
 |[Imp1k](https://predimportance.mit.edu/)|1000 designs| Designs + saliency maps|
 |[LabintheWild](https://iis.seas.harvard.edu/resources/aesthetics-chi14/)|
 |[Package Design](https://www.kaggle.com/datasets/dagloxkankwanda/package-design-dataset)| Graphic design templates for packaging | Includes product URLs, titles, average ratings, number of sales, prices, date published, date updated, and more|
+|[Poster-Erase](https://tianchi.aliyun.com/dataset/134810)| Advertising Posters | Partially labeled dataset (labels: posters with text erased) |
 |[STEFANN](https://github.com/prasunroy/stefann)| Font style dataset | 64x64 grayscale images of 62 English alphanumeric characters (10 numerals + 26 upper-case letters + 26 lower-case letters)
 |[Tag-based Font](https://www.cs.rochester.edu/u/tchen45/font/font.html)| Font style dataset | Fonts + tags |
 |[Font Attribute](https://www.dgp.toronto.edu/~donovan/font/)| Font style dataset | Fonts + personality attributes |
