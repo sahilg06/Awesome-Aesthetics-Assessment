@@ -24,6 +24,7 @@ These papers, though diverse, collectively shed light on the subjective and evol
 |[PKU](http://39.108.48.32/mipl/PosterLayout/)| Poster-layout pairs | Original Posters + Inpainted Bg images + Saliency Maps |
 |[Desigen](https://drive.google.com/file/d/1M6om4DSk9wNgzjGLY5BtPNUL83KB8JVB/view)| |Bg Image + Layout annotations + meta-data (Whole Design is not there)|
 |[Web-Aesthetics](https://github.com/calista-ai/website-aesthetics-datasets)| Webpage images + ratings | Individual ratings + pair-wise comparison ratings |
+|[Imp1k](https://predimportance.mit.edu/)|1000 designs| Designs + saliency maps|
 |[LabintheWild](https://iis.seas.harvard.edu/resources/aesthetics-chi14/)|
 |[STEFANN](https://github.com/prasunroy/stefann)| Font style dataset | 64x64 grayscale images of 62 English alphanumeric characters (10 numerals + 26 upper-case letters + 26 lower-case letters)
 |[Tag-based Font](https://www.cs.rochester.edu/u/tchen45/font/font.html)| Font style dataset | Fonts + tags |
@@ -42,7 +43,7 @@ These papers, though diverse, collectively shed light on the subjective and evol
 - Design Order Guided Visual Note Layout Optimization (**IEEE Transactions on Visualization and Computer Graphics**) [[Paper]](https://ieeexplore.ieee.org/document/9767765)
 - Aesthetics++: Refining Graphic Designs by Exploring Design Principles and Human Preference (**IEEE Transactions on Visualization and Computer Graphics**) [[Paper]](https://ieeexplore.ieee.org/document/9714170)
 - Optimization approaches for graphical layout design (**Aalto University publication series**) [[Thesis]](https://aaltodoc.aalto.fi/items/7a4a9393-922c-49ff-b6f5-9ee54b196bee)
-- Assessing the Visual Esthetics of User Interfaces: A Ten-Year Systematic Mapping (**International Journal of Human–Computer Interaction**) [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/10447318.2021.1926118)
+- Assessing the Visual Esthetics of User Interfaces: A Ten-Year Systematic Mapping (**Journal: Human-Computer Interaction**) [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/10447318.2021.1926118)
 - Product Aesthetic Design: A Machine Learning Augmentation (**Marketing Science**) [[Paper]](https://arxiv.org/ftp/arxiv/papers/1907/1907.07786.pdf)
 ### 2021
 - Grid-based Genetic Operators for Graphical Layout Generation (**ACM on Human-Computer Interaction**) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3461730) [[Project]](https://userinterfaces.aalto.fi/grid_nsga/)
@@ -51,6 +52,7 @@ These papers, though diverse, collectively shed light on the subjective and evol
 - A Novel Webpage Layout Aesthetic Evaluation Model for Quantifying Webpage Layout Design (**Information Sciences: an International Journal**) [[Paper]](https://dl.acm.org/doi/10.1016/j.ins.2021.06.071)
 - Beyond Beauty: Towards a Deeper Understanding of Aesthetics in HCI (**CHI EA**) [[Paper]](https://dl.acm.org/doi/10.1145/3411763.3450381)
 ### 2020
+- Predicting Visual Importance Across Graphic Design Types (**UIST**) [[Paper]](https://arxiv.org/abs/2008.02912) [[Code]](https://github.com/diviz-mit/predimportance-public) [[Project]](https://predimportance.mit.edu/)
 - Let Me Choose: From Verbal Context to Font Selection (**ACL**) [[Paper]](https://arxiv.org/abs/2005.01151)
 - Attribute2Font: creating fonts you want from attributes (**ACM Transactions on Graphics**) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3386569.3392456)
 ### 2019
