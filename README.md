@@ -24,6 +24,7 @@ These papers, though diverse, collectively shed light on the subjective and evol
 |[PKU](http://39.108.48.32/mipl/PosterLayout/)| Poster-layout pairs | Original Posters + Inpainted Bg images + Saliency Maps |
 |[Desigen](https://drive.google.com/file/d/1M6om4DSk9wNgzjGLY5BtPNUL83KB8JVB/view)| |Bg Image + Layout annotations + meta-data (Whole Design is not there)|
 |[Web-Aesthetics](https://github.com/calista-ai/website-aesthetics-datasets)| Webpage images + ratings | Individual ratings + pair-wise comparison ratings |
+|[LabintheWild](https://iis.seas.harvard.edu/resources/aesthetics-chi14/)|
 |[STEFANN](https://github.com/prasunroy/stefann)| Font style dataset | 64x64 grayscale images of 62 English alphanumeric characters (10 numerals + 26 upper-case letters + 26 lower-case letters)
 |[Tag-based Font](https://www.cs.rochester.edu/u/tchen45/font/font.html)| Font style dataset | Fonts + tags |
 |[Font Attribute](https://www.dgp.toronto.edu/~donovan/font/)| Font style dataset | Fonts + personality attributes |
@@ -69,6 +70,7 @@ These papers, though diverse, collectively shed light on the subjective and evol
 ### <= 2015
 - A Mathematical Theory of Interface Aesthetics (**Ngo Metrics**) [[Article]](https://www.mi.sanu.ac.rs/vismath/ngo/index.html)
 - DesignScape: Design with Interactive Layout Suggestions (**CHI**) [[Paper]](https://www.dgp.toronto.edu/~donovan/design/designscape.pdf) [[Project]](https://www.dgp.toronto.edu/~donovan/design/index.html)
+- Quantifying visual preferences around the world (**CHI**) [[Paper]](https://dl.acm.org/doi/10.1145/2556288.2557052) [[Project]](https://iis.seas.harvard.edu/resources/aesthetics-chi14/)
 - Learning Layouts for Single-Page Graphic Designs (**IEEE Transactions on Visualization and Computer Graphics**) [[Paper]](https://ieeexplore.ieee.org/document/6777138) [[Project]](https://www.dgp.toronto.edu/~donovan/layout/)
 - Learning Design: Aesthetic Models for Color, Layout, and Typography (**O'Donovan, Peter**) [[Thesis]](https://tspace.library.utoronto.ca/handle/1807/69465)
 - Exploratory Font Selection Using Crowdsourced Attributes (**ACM Transactions on Graphics**) [[Paper]](https://dl.acm.org/doi/10.1145/2601097.2601110) [[Project]](https://www.dgp.toronto.edu/~donovan/font/)
@@ -98,7 +100,7 @@ These papers, though diverse, collectively shed light on the subjective and evol
 
 ## Image Aesthetics Assessment
 ### 2023
-- Thinking Image Color Aesthetics Assessment: Models, Datasets and Benchmarks (**ICCV**) [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/He_Thinking_Image_Color_Aesthetics_Assessment_Models_Datasets_and_Benchmarks_ICCV_2023_paper.pdf) [[Code]](https://github.com/woshidandan/Image-Color-Aesthetics-Assessment)
+- Thinking Image Color Aesthetics Assessment: Models, Datasets, and Benchmarks (**ICCV**) [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/He_Thinking_Image_Color_Aesthetics_Assessment_Models_Datasets_and_Benchmarks_ICCV_2023_paper.pdf) [[Code]](https://github.com/woshidandan/Image-Color-Aesthetics-Assessment)
 - Towards Transparent Deep Image Aesthetics Assessment with Tag-based Content Descriptors (**IEEE Transactions on Image Processing**) [[Paper]](https://ieeexplore.ieee.org/document/10235894)
 ### 2022
 - LAION-AI Aesthetics Predictor [[Code]](https://github.com/LAION-AI/aesthetic-predictor)
