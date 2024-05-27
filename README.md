@@ -32,6 +32,7 @@ These papers, though diverse, collectively shed light on the subjective and evol
 |[Tag-based Font](https://www.cs.rochester.edu/u/tchen45/font/font.html)| Font style dataset | Fonts + tags |
 |[Font Attribute](https://www.dgp.toronto.edu/~donovan/font/)| Font style dataset | Fonts + personality attributes |
 ### 2024
+- Visual Explanation for Advertising Creative Workflow (**CHI EA**) [[Paper]](https://dl.acm.org/doi/fullHtml/10.1145/3613905.3651123) [[Video]](https://youtu.be/dLomdkQYnko?si=bv2KlMqQaMW7rp6M)
 - Development and Evaluation of a Custom GPT for the Assessment of Students’ Designs in a Typography Course (**Journal: Educ. Sci.**) [[Paper]](https://www.mdpi.com/2227-7102/14/2/148)
 - An interpretable metric of visual aesthetics for GUI design (**Journal: Behaviour & Information Technology**) [[Paper]](https://www.tandfonline.com/doi/full/10.1080/0144929X.2024.2325030)
 - Utilizing Multiple Regression Analysis and Entropy Method for Automated Aesthetic Evaluation of Interface Layouts (**Journal: Symmetry**) [[Paper]](https://www.mdpi.com/2073-8994/16/5/523)
