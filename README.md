@@ -31,7 +31,9 @@ These papers, though diverse, collectively shed light on the subjective and evol
 |[STEFANN](https://github.com/prasunroy/stefann)| Font style dataset | 64x64 grayscale images of 62 English alphanumeric characters (10 numerals + 26 upper-case letters + 26 lower-case letters)
 |[Tag-based Font](https://www.cs.rochester.edu/u/tchen45/font/font.html)| Font style dataset | Fonts + tags |
 |[Font Attribute](https://www.dgp.toronto.edu/~donovan/font/)| Font style dataset | Fonts + personality attributes |
+
 ### 2024
+- Graphic Design with Large Multimodal Model (**Arxiv**) [[Paper]](https://arxiv.org/abs/2404.14368) [[Code]](https://github.com/graphic-design-ai/graphist) (Introduced 2 new metrics: IOPR and GPT-4V Eval)
 - Visual Explanation for Advertising Creative Workflow (**CHI EA**) [[Paper]](https://dl.acm.org/doi/fullHtml/10.1145/3613905.3651123) [[Video]](https://youtu.be/dLomdkQYnko?si=bv2KlMqQaMW7rp6M)
 - Development and Evaluation of a Custom GPT for the Assessment of Students’ Designs in a Typography Course (**Journal: Educ. Sci.**) [[Paper]](https://www.mdpi.com/2227-7102/14/2/148)
 - An interpretable metric of visual aesthetics for GUI design (**Journal: Behaviour & Information Technology**) [[Paper]](https://www.tandfonline.com/doi/full/10.1080/0144929X.2024.2325030)
