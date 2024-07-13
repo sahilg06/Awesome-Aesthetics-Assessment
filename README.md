@@ -62,6 +62,7 @@ These papers, though diverse, collectively shed light on the subjective and evol
 - Attribute2Font: creating fonts you want from attributes (**ACM Transactions on Graphics**) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3386569.3392456)
 ### 2019
 - Webthetics: Quantifying webpage aesthetics with deep learning (**International Journal of Human-Computer Studies**) [[Paper]](https://www.cse.cuhk.edu.hk/~qdou/papers/2019/%5B2019%5D%5BIJHCS%5DWebthetics-Webpage%20Aesthetics%20Quantification%20with%20Deep%20Learning.pdf) [[Code]](https://github.com/carrenD/Webthetics)
+- Automatic Layout Generation for Graphical Design Magazines (**SIGGRAPH**) [[Paper]](https://history.siggraph.org/wp-content/uploads/2021/10/2019-09-Tabata_Automatic-Layout-Generation.pdf)
 - Context-Aware Asset Search for Graphic Design (**IEEE Transactions on Visualization and Computer Graphics**) [[Paper]](https://ieeexplore.ieee.org/document/8371268)
 - Large-scale Tag-based Font Retrieval with Generative Feature Learning (**ICCV**) [[Paper]](https://arxiv.org/abs/1909.02072) [[Project]](https://www.cs.rochester.edu/u/tchen45/font/font.html)
 ### 2018
