@@ -33,6 +33,7 @@ These papers, though diverse, collectively shed light on the subjective and evol
 |[Font Attribute](https://www.dgp.toronto.edu/~donovan/font/)| Font style dataset | Fonts + personality attributes |
 
 ### 2024
+- Design-o-meter: Towards Evaluating and Refining Graphic Designs (**WACV**)
 - Can GPT Evaluate Graphic Designs Based on Design Principles? (**SIGGRAPH ASIA technical communications**) [[Paper]](https://arxiv.org/abs/2410.08885) [[Data]](https://cyberagentailab.github.io/Graphic-design-evaluation/)
 - Graphic Design with Large Multimodal Model (**Arxiv**) [[Paper]](https://arxiv.org/abs/2404.14368) [[Code]](https://github.com/graphic-design-ai/graphist) (Introduced 2 new metrics: IOPR and GPT-4V Eval)
 - Visual Explanation for Advertising Creative Workflow (**CHI EA**) [[Paper]](https://dl.acm.org/doi/fullHtml/10.1145/3613905.3651123) [[Video]](https://youtu.be/dLomdkQYnko?si=bv2KlMqQaMW7rp6M)
