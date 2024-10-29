@@ -1,4 +1,4 @@
-# Aesthetics Assessment Sources (Graphic Designs/Images)
+# Aesthetics Assessment Sources (Graphic Designs)
 This repo focuses mainly on **Graphic Designs**. It includes both **Heuristic** (Rule-Based) and **AI**-based approaches.
 
 ## Graphic Design Aesthetics Assessment
@@ -107,7 +107,7 @@ These papers, though diverse, collectively shed light on the subjective and evol
 - https://owl.purdue.edu/owl/general_writing/visual_rhetoric/using_fonts_with_purpose/font_features.html
 - https://louisem.com/4089
 
-
+<!--
 ## Image Aesthetics Assessment
 ### 2023
 - Thinking Image Color Aesthetics Assessment: Models, Datasets, and Benchmarks (**ICCV**) [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/He_Thinking_Image_Color_Aesthetics_Assessment_Models_Datasets_and_Benchmarks_ICCV_2023_paper.pdf) [[Code]](https://github.com/woshidandan/Image-Color-Aesthetics-Assessment)
@@ -123,6 +123,7 @@ These papers, though diverse, collectively shed light on the subjective and evol
 - Rating Image Aesthetics Using Deep Learning (**IEEE Transactions on Multimedia**) [[Paper]](https://ieeexplore.ieee.org/document/7243357)
 - Computing Aesthetics (**Advances in Artificial Intelligence**) [[Paper]](https://link.springer.com/chapter/10.1007/10692710_23)
 - Studying Aesthetics in Photographic Images Using a Computational Approach (**ECCV**) [[Paper]](http://infolab.stanford.edu/~wangz/project/imsearch/Aesthetics/ECCV06/)
+-->
 
 
   
