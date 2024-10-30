@@ -12,6 +12,7 @@ These papers, though diverse, collectively shed light on the subjective and evol
 
 | Dataset                                               | Description                                      | Details                                  |
 |-------------------------------------------------------|--------------------------------------------------|------------------------------------------|
+|[Design Principles](https://github.com/CyberAgentAILab/Graphic-design-evaluation)| Designs from [create.vista.com](create.vista.com) | Human and GPT annotations of design principles|
 | [Rico](https://dl.acm.org/doi/10.1145/3126594.3126651)| UI designs of android applications | screenshots + wireframes + annotations|
 |[Enrico](https://github.com/luileito/enrico?tab=readme-ov-file)| Manually curated RICO | -
 |[Clay](https://github.com/google-research-datasets/clay)| Human-annotated RICO | -
