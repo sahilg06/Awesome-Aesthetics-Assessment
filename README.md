@@ -33,6 +33,9 @@ These papers, though diverse, collectively shed light on the subjective and evol
 |[Tag-based Font](https://www.cs.rochester.edu/u/tchen45/font/font.html)| Font style dataset | Fonts + tags |
 |[Font Attribute](https://www.dgp.toronto.edu/~donovan/font/)| Font style dataset | Fonts + personality attributes |
 
+### 2025
+- AesthetiQ: Enhancing Graphic Layout Design via Aesthetic-Aware Preference Alignment of Multi-modal Large Language Models (**CVPR**) [[Paper]](https://arxiv.org/pdf/2503.00591) [[Project]](https://mdsrlab.github.io/2025/03/01/AesthetiQ-CVPR.html)
+
 ### 2024
 - Design-o-meter: Towards Evaluating and Refining Graphic Designs (**WACV**) [[Paper]](https://arxiv.org/abs/2411.14959) [[Project]](https://sahilg06.github.io/Design-o-meter/)
 - Can GPT Evaluate Graphic Designs Based on Design Principles? (**SIGGRAPH ASIA technical communications**) [[Paper]](https://arxiv.org/abs/2410.08885) [[Project]](https://cyberagentailab.github.io/Graphic-design-evaluation/)
