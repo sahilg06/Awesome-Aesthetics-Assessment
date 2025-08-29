@@ -34,6 +34,7 @@ These papers, though diverse, collectively shed light on the subjective and evol
 |[Font Attribute](https://www.dgp.toronto.edu/~donovan/font/)| Font style dataset | Fonts + personality attributes |
 
 ### 2025
+- Agentic Design Review System (**Arxiv**) [[Paper]](https://arxiv.org/abs/2508.10745)
 - AesthetiQ: Enhancing Graphic Layout Design via Aesthetic-Aware Preference Alignment of Multi-modal Large Language Models (**CVPR**) [[Paper]](https://arxiv.org/pdf/2503.00591) [[Project]](https://mdsrlab.github.io/2025/03/01/AesthetiQ-CVPR.html)
 
 ### 2024
