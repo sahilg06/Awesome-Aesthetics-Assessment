@@ -31,6 +31,11 @@ These papers, though diverse, collectively shed light on the subjective and evol
 |[Tag-based Font](https://www.cs.rochester.edu/u/tchen45/font/font.html)| Font style dataset | Fonts + tags |
 |[Font Attribute](https://www.dgp.toronto.edu/~donovan/font/)| Font style dataset | Fonts + personality attributes |
 
+### 2026
+- Can Vision Language Models Assess Graphic Design Aesthetics? A Benchmark, Evaluation, and Dataset Perspective (**ICLR**) [[Paper]](https://arxiv.org/abs/2603.01083) [[Code]](https://github.com/arctanxarc/AesEval-Bench)
+- PosterReward: Unlocking Accurate Evaluation for High-Quality Graphic Design Generation (**CVPR**) [[Paper]](https://arxiv.org/abs/2603.29855) [[Code]](https://github.com/MeiGen-AI/PosterReward)
+
+
 ### 2025
 - Agentic Design Review System (**Arxiv**) [[Paper]](https://arxiv.org/abs/2508.10745)
 - AesthetiQ: Enhancing Graphic Layout Design via Aesthetic-Aware Preference Alignment of Multi-modal Large Language Models (**CVPR**) [[Paper]](https://arxiv.org/pdf/2503.00591) [[Project]](https://mdsrlab.github.io/2025/03/01/AesthetiQ-CVPR.html)
