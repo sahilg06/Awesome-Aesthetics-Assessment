@@ -4,9 +4,6 @@ This repo focuses mainly on **Graphic Designs**. It includes both **Heuristic** 
 ## Graphic Design Aesthetics Assessment
 These papers, though diverse, collectively shed light on the subjective and evolving nature of graphic design aesthetics.
 
-![intro](https://github.com/sahilg06/Awesome-Aesthetics-Assessment/assets/59660566/cab2c2e9-f79a-4d4c-8e5a-5f8b93739fc9)
-
-
 
 ### Relevant Datasets
 
